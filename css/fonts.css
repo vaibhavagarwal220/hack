@@ -1,0 +1,162 @@
+@font-face {
+font-family: 'ABeeZeeitalic';
+src: url('fonts/ABeeZee italic.ttf');}
+@font-face {
+font-family: 'ABeeZeeregular';
+src: url('fonts/ABeeZee regular.ttf');}
+@font-face {
+font-family: 'AbrilFatfaceregular';
+src: url('fonts/Abril Fatface regular.ttf');}
+@font-face {
+font-family: 'Aclonicaregular';
+src: url('fonts/Aclonica regular.ttf');}
+@font-face {
+font-family: 'Acmeregular';
+src: url('fonts/Acme regular.ttf');}
+@font-face {
+font-family: 'Actorregular';
+src: url('fonts/Actor regular.ttf');}
+@font-face {
+font-family: 'Adaminaregular';
+src: url('fonts/Adamina regular.ttf');}
+@font-face {
+font-family: 'AdventPro100';
+src: url('fonts/Advent Pro 100.ttf');}
+@font-face {
+font-family: 'AdventPro200';
+src: url('fonts/Advent Pro 200.ttf');}
+@font-face {
+font-family: 'AdventPro300';
+src: url('fonts/Advent Pro 300.ttf');}
+@font-face {
+font-family: 'AdventPro400';
+src: url('fonts/Advent Pro 400.ttf');}
+@font-face {
+font-family: 'AdventPro500';
+src: url('fonts/Advent Pro 500.ttf');}
+@font-face {
+font-family: 'AdventPro600';
+src: url('fonts/Advent Pro 600.ttf');}
+@font-face {
+font-family: 'AdventPro700';
+src: url('fonts/Advent Pro 700.ttf');}
+@font-face {
+font-family: 'AdventProregular';
+src: url('fonts/Advent Pro regular.ttf');}
+@font-face {
+font-family: 'Alegreya700';
+src: url('fonts/Alegreya 700.ttf');}
+@font-face {
+font-family: 'Alegreya700italic';
+src: url('fonts/Alegreya 700italic.ttf');}
+@font-face {
+font-family: 'Alegreya900';
+src: url('fonts/Alegreya 900.ttf');}
+@font-face {
+font-family: 'Alegreya900italic';
+src: url('fonts/Alegreya 900italic.ttf');}
+@font-face {
+font-family: 'Alegreyaitalic';
+src: url('fonts/Alegreyaitalic.ttf');}
+@font-face {
+font-family: 'Alegreyaregular';
+src: url('fonts/Alegreya regular.ttf');}
+@font-face {
+font-family: 'AlegreyaSansSC100';
+src: url('fonts/Alegreya Sans SC 100.ttf');}
+@font-face {
+font-family: 'AlegreyaSansSC100italic';
+src: url('fonts/Alegreya Sans SC 100italic.ttf');}
+@font-face {
+font-family: 'AlegreyaSansSC300';
+src: url('fonts/Alegreya Sans SC 300.ttf');}
+@font-face {
+font-family: 'AlegreyaSansSC300italic';
+src: url('fonts/Alegreya Sans SC 300italic.ttf');}
+@font-face {
+font-family: 'AlegreyaSansSC500';
+src: url('fonts/Alegreya Sans SC 500.ttf');}
+@font-face {
+font-family: 'AlegreyaSansSC500italic';
+src: url('fonts/Alegreya Sans SC 500italic.ttf');}
+@font-face {
+font-family: 'AlegreyaSansSC700';
+src: url('fonts/Alegreya Sans SC 700.ttf');}
+@font-face {
+font-family: 'AlegreyaSansSC700italic';
+src: url('fonts/Alegreya Sans SC 700italic.ttf');}
+@font-face {
+font-family: 'AlegreyaSansSC800';
+src: url('fonts/'Alegreya Sans SC 800.ttf);}
+@font-face {
+font-family: 'AlegreyaSansSC800italic';
+src: url('fonts/Alegreya Sans SC 800italic.ttf');}
+@font-face {
+font-family: 'AlegreyaSansSC900italic';
+src: url('fonts/Alegreya Sans SC 900italic.ttf');}
+@font-face {
+font-family: 'AlegreyaSansSCitalic';
+src: url('fonts/Alegreya Sans SC italic.ttf');}
+@font-face {
+font-family: 'AlegreyaSansSCregular';
+src: url('fonts/Alegreya Sans SC regular.ttf');}
+@font-face {
+font-family: 'AlegreyaSC700';
+src: url('fonts/Alegreya SC 700.ttf');}
+@font-face {
+font-family: 'AlegreyaSC700italic';
+src: url('fonts/Alegreya SC 700italic.ttf');}
+@font-face {
+font-family: 'AlegreyaSC900';
+src: url('fonts/Alegreya SC 900.ttf');}
+@font-face {
+font-family: 'AlegreyaSC900italic';
+src: url('fonts/Alegreya SC 900italic.ttf');}
+@font-face {
+font-family: 'AlegreyaSCitalic';
+src: url('fonts/Alegreya SC italic.ttf');}
+@font-face {
+font-family: 'AlegreyaSCregular';
+src: url('fonts/Alegreya SC regular.ttf');}
+@font-face {
+font-family: 'AlfaSlabOneregular';
+src: url('fonts/Alfa Slab One regular.ttf');}
+@font-face {
+font-family: 'AmaticaSC700';
+src: url('fonts/Amatica SC 700.ttf');}
+@font-face {
+font-family: 'AmaticaSCregular';
+src: url('fonts/Amatica SC regular.ttf');}
+@font-face {
+font-family: 'Amita700';
+src: url('fonts/Amita 700.ttf');}
+@font-face {
+font-family: 'Amitaregular';
+src: url('fonts/Amita regular.ttf');}
+@font-face {
+font-family: 'Antonregular';
+src: url('fonts/Anton regular.ttf');}
+@font-face {
+font-family: 'ArchivoNarrow700';
+src: url('fonts/Archivo Narrow 700.ttf');}
+@font-face {
+font-family: 'ArchivoNarrow700italic';
+src: url('fonts/Archivo Narrow 700italic.ttf');}
+@font-face {
+font-family: 'ArchivoNarrowitalic';
+src: url('fonts/Archivo Narrow italic.ttf');}
+@font-face {
+font-family: 'ArchivoNarrowregular';
+src: url('fonts/Archivo Narrow regular.ttf');}
+@font-face {
+font-family: 'Arvo700';
+src: url('fonts/Arvo 700.ttf');}
+@font-face {
+font-family: 'Arvo700italic';
+src: url('fonts/Arvo 700italic.ttf');}
+@font-face {
+font-family: 'Arvoitalic';
+src: url('fonts/Arvo italic.ttf');}
+@font-face {
+font-family: 'Arvoregular';
+src: url('fonts/Arvo regular.ttf');}

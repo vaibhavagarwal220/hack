@@ -1,0 +1,1 @@
+//your code goes \r\n#include &lt;iostream&gt;\r\nusing namespace std;\r\nvector&lt;int&gt; i;\r\ni.push_back(1);
